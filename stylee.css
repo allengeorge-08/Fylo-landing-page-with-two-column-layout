@@ -1,0 +1,520 @@
+body {
+    padding-top: 1.5cm;
+    width: 100%;
+}
+
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(Raleway-Bold.ttf);
+}
+
+
+@font-face{
+font-family: FirstFont;
+src: url(Raleway-VariableFont_wght.ttf);
+}
+
+
+
+
+.first {
+    padding-right: 2cm;
+    padding-left: 2cm;
+
+}
+
+img,
+.fir {
+    display: inline-flexbox;
+}
+
+.fylo,
+.option {
+    display: inline;
+}
+
+.option {
+    float: right;
+}
+
+
+
+#imgg {
+    /* padding-left: 5cm;  */
+
+    width: 22cm;
+}
+
+.allfile,
+#img {
+
+    float: left;
+}
+
+.allfile {
+    width: 22cm;
+    height: 10cm;
+}
+
+.all {
+
+    font-family: 'myFirstFont';
+
+    text-decoration: solid;
+    font-weight: bolder;
+
+
+    color: hsl(243, 87%, 12%);
+    font-weight: 1500;
+    font-size: 1.2cm;
+
+}
+
+
+* {
+    
+    font-family: 'FirstFont';
+}
+
+.Features,
+.team,
+.sign {
+    display: inline;
+
+
+}
+
+.team {
+
+    margin: 1.4cm;
+}
+
+.fylopara {
+    font-size: 0.6cm;
+
+    font-weight: bold;
+    color: hsl(243, 87%, 12%);
+}
+
+#mail {
+    border: solid;
+    width: 8.5cm;
+    padding: 0.37cm;
+    font-size: medium;
+    margin-right: 0.3cm;
+    border-color: hsl(243, 87%, 12%) ;
+    font-weight:"";
+    color: lightgrey;
+    border-radius: 3px;
+
+    border-width: 1px;
+}
+
+
+#get{
+    padding: 0.45cm;
+    width: 6cm;
+    background-color:  hsl(224, 93%, 58%);
+    box-shadow: 3px 3px lightgray;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.second{
+
+    /* background-image: url(D:\frontend\3\fylo-landing-page-with-two-column-layout-master\bg-curve-desktop.svg); */
+
+   
+
+ 
+    
+}
+
+#curve{
+    margin-bottom: 0px;
+    border:none;
+    
+
+    width: 100%;
+}
+
+
+   .bgcolour1{ 
+    padding-left: 2cm;
+    padding-right: 2cm;
+    margin-top: -4px;
+    background-color: hsl(250, 75%, 98.5%);
+    border:none;
+    
+
+   }
+
+   .stay{
+
+    font-family: 'myFirstFont';
+    text-decoration: solid;
+    font-weight:bolder;
+
+
+    color: hsl(243, 87%, 12%);
+    font-weight: 1500;
+    font-size: 1.2cm;
+
+    
+   }
+
+   .never{
+    text-decoration: solid;
+    font-weight: bolder;
+
+
+    color: hsl(243, 87%, 12%);
+    font-weight: 1500;
+    font-size: 0.6cm;
+
+
+}
+
+
+
+
+#img2{
+    width: 20cm;
+    float: right;
+}
+.howfyloworks{
+    color:hsl(170, 45%, 43%);
+   
+    padding-bottom: 7px;
+        border-bottom: hsl(170, 45%, 43%) 1px solid;
+
+        margin-right: 41.4cm;
+
+
+    
+    
+  
+   
+
+
+
+}
+
+.quote{
+    width: 0.7cm;
+}
+
+#arrow{
+    padding-top: 10px;
+}
+
+
+.whitebox{
+    background-color: white;
+    padding: 1cm;
+    width: 10.5cm;
+    font-size: 0.5cm;
+    box-shadow: 1px 1px 15px 1px lightgrey ;
+    border-radius: 5px;
+    
+   
+}
+
+.avatar{
+
+    width: 1.5cm;
+
+    border-radius: 100%;
+}
+
+.avatartext{
+    float: right;
+    padding-right: 3cm;
+    padding-top: 8px;
+    font-family: 'myFirstFont';
+    color: hsl(243, 87%, 12%) ;
+}
+
+.avatartex2{
+
+    font-family: 'FirstFont';
+    color: black;
+    font-size:  16px;
+}
+
+
+
+
+
+
+*{
+    border: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.third{
+
+    color: white;
+
+    padding: 3cm 3cm 3cm 2cm;
+
+    background-color:   hsl(238, 22%, 44%);
+}
+
+
+.acess{
+
+    font-size: 0.9cm; ;
+    font-family: 'FirstFont';
+
+    font-weight: bolder;
+    width: 10cm;
+
+
+}
+
+.para{
+
+    font-family: 'FirstFont';
+    font-size: 15px;
+    font-weight: "";
+
+}
+
+.info{
+    float: right;
+}
+
+#mail2{
+
+    border-color:grey;
+    
+
+    border-width: -4px;
+
+    padding: 0.5cm;
+    width: 10cm;
+    color: lightgray;
+    font-family: 'FirstFont';
+    border-radius: 5px;
+    border:none;
+    box-shadow: 0.5px 0.5px 6px 0.5px hsl(238, 22%, 30%);
+}
+
+.button2{
+    padding:0.5cm 0.8cm  0.5cm 0.8cm ;
+    background-color:  hsl(224, 93%, 58%);
+    border: none;
+    color: white;
+    font-size: 15px;
+    border-radius: 4px;
+    box-shadow: 0.5px 0.5px 6px 0.5px hsl(224, 93%, 33%);
+    width: 7cm;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.forth{
+
+    height: 7cm;
+
+    font-family: 'FirstFont';
+
+    background-color: hsl(243, 87%, 12%);
+    
+    color: white;
+    padding: 2.3cm 2cm 2.3cm 2cm;
+    font-size: 0.5cm;
+}
+
+.fylo2{
+
+    width: 5cm;
+}
+
+.phone, .jobs, .terms{
+
+
+    float: left;
+}
+
+
+
+.jobs{
+
+
+    margin-left: 6cm;
+
+    margin-top: 2.7cm;
+}
+
+
+
+
+.terms{
+
+    margin-left: 9cm;
+
+    margin-top: 2.7cm;
+}
+
+
+.icons{
+    margin-left: 33cm;
+    width: 6cm;
+
+
+    margin-top: 2.2cm;
+}
+
+.fa-facebook{
+
+    border: solid;
+    color: white;
+
+    width: 1cm;
+    height: 0.7cm;
+    text-align: center;
+    padding-top: 0.3cm;
+    border-radius: 100%;
+    
+ 
+}
+
+.fa-twitter{
+
+    border: solid;
+    color: white;
+    margin-left: 1cm;
+
+    width: 1cm;
+    height: 0.7cm;
+    text-align: center;
+    padding-top: 0.3cm;
+    border-radius: 100%;
+
+  
+    
+
+    
+    
+    
+}
+
+.phone{
+    margin-right: 0.7cm;
+}
+
+.mailimg{
+    margin-right: 0.5cm;
+}
+
+
+.fa-instagram{
+
+
+    border: solid;
+    margin-left: 1.2cm;
+    color: white;
+
+    width: 1cm;
+    height: 0.7cm;
+    text-align: center;
+    padding-top: 0.3cm;
+    border-radius: 100%;
+    
+   
+      }
